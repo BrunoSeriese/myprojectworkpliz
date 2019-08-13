@@ -1,0 +1,93 @@
+
+
+
+h1
+{
+
+  font-family: Pacifico;
+  color: white;
+  font-size: 3.5rem;
+}
+
+h2
+{
+  font-family: Pacifico;
+  color: white;
+  text-align: center;
+  padding: 7% 2% 2% 2%;
+  line-height: 2;
+}
+
+h3
+{
+  font-family: Pacifico;
+  padding: 3%;
+}
+
+p
+{
+  font-family: Lexend Deca;
+}
+
+#part2
+{
+  color: white;
+  text-align: center;
+
+}
+
+body{
+
+  background-color: #5CDB95;
+}
+
+
+.listingsz
+{
+  background-color: white;
+  color: #5CDB95;
+  text-align: center;
+  font-weight: bold;
+}
+
+/* images */
+
+.firstImg
+{
+  border-radius: 100%;
+  width: 20%;
+  padding: 7% 3%;
+
+  text-align: center;
+}
+
+
+
+@media only screen and (max-width: 800px) {
+
+    .firstImg
+    {
+      width: 60%;
+        padding-top: 30px;
+    }
+
+    .homeru
+    {
+      text-align: center;
+    }
+
+    h1
+    {
+      padding-bottom: 50px;
+    }
+}
+
+
+
+/* icons */
+
+
+.fa-4x
+{
+  padding: 7%;
+}
